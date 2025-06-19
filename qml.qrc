@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainView.qml</file>
+        <file>LoginPage.qml</file>
+        <file>DashboardPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>newAccount.qml</file>
+        <file>Amount.qml</file>
+        <file>Historique.qml</file>
+        <file>TransactionHistoryPage.qml</file>
+    </qresource>
+</RCC>
